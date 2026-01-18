@@ -1,0 +1,15 @@
+# Dataset (do not upload)
+data/DREAMER.mat
+*.mat
+
+# macOS junk
+.DS_Store
+
+# python env
+eeg_env/
+venv/
+.env/
+
+# notebook cache
+.ipynb_checkpoints/
+__pycache__/
